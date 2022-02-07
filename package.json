@@ -1,0 +1,28 @@
+{
+    "start": "node server.js",
+    "dependencies": {
+        "express": "^4.17.2",
+        "mysql2": "^2.3.3"
+    },
+    "devDependencies": {
+        "jest": "^27.5.0"
+    },
+    "name": "mysql_db",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salmanghouse1/mysql_db.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/salmanghouse1/mysql_db/issues"
+    },
+    "homepage": "https://github.com/salmanghouse1/mysql_db#readme",
+    "description": ""
+}
